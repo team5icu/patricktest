@@ -12,6 +12,7 @@ import java.text.ParseException;
 
 //Scope de aplicacion , ese servlet se va a isntancia una sola vez
 //hello, saving this note
+//new change 530 pm
 public class Hw7 extends HttpServlet {
 int status2 = 0;
 public static boolean isNumeric(String str)
